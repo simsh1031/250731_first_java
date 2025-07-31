@@ -7,5 +7,7 @@ public class HelloWorld {
         // 줄 지우기 ctrl + y
         // 본인 OS에 맞는 IntelliJ 주요 단축키 찾아보기
         System.out.println("Bye Earth");
+        System.out.println("Bye Earth");
+
     }
 }
